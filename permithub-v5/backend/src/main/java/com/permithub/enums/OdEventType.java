@@ -1,2 +1,0 @@
-package com.permithub.enums;
-public enum OdEventType { SYMPOSIUM, HACKATHON, INTERNSHIP, WORKSHOP, CONFERENCE, CULTURAL, SPORTS, CLUB_ACTIVITIES, OTHER }
